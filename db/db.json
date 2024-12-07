@@ -1,0 +1,11 @@
+{
+    "coffee": [
+        {
+            "id": 1,
+            "name": "Americano",
+            "image": "https://static.fore.coffee/product/Americano%20Iced.jpg",
+            "price": 21000,
+            "description": "Espresso shoot yang dicampur dengan segelas air menghadirkan karakter, aroma, dan rasa yang ideal."
+        }
+    ]
+}

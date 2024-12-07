@@ -24,15 +24,19 @@ export default function Navbar() {
                         <ul
                             tabIndex={0}
                             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
-                            <li><a>Item 1</a></li>
-                            <li>
-                                <a>Parent</a>
-                                <ul className="p-2">
-                                    <li><a>Submenu 1</a></li>
-                                    <li><a>Submenu 2</a></li>
+                            <li><a>Tentang</a></li>
+                            <li><a>Menu</a></li>
+                            <li><a>Kolaborasi</a></li>
+                            <li><a>Store</a></li>
+                            <li><a>Karir</a></li>
+                            <li><a>Hubungi Kami</a></li>
+                            <div className="dropdown dropdown-hover">
+                                <div tabIndex={0} role="button" className="m-2 bg-transparent border-none">🇮🇩 ID</div>
+                                <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-[-1] w-52 p-2 shadow">
+                                    <li><a>🇸🇬 SG (Singapore)</a></li>
+                                    <li><a>🇮🇩 ID (Indonesia)</a></li>
                                 </ul>
-                            </li>
-                            <li><a>Item 3</a></li>
+                            </div>
                         </ul>
                     </div>
                     <Image src="https://fore.coffee/wp-content/uploads/2014/12/Logo-2.png" width={80} height={80} alt="Fore Coffee" className="lg:ml-5" />
