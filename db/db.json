@@ -92,6 +92,30 @@
         "description": "Espresso shot dalam segelas air dengan menjaga ketebalan rasa kopinya."
       }
     ],
+    "coffee_overview" : [
+      {
+        "id": 13,
+        "name": "Hot Americano",
+        "image": "https://static.fore.coffee/product/americanohot173.jpg",
+        "price": 21000,
+        "description": "Espresso shot dalam segelas air dengan menjaga ketebalan rasa kopinya."
+      },
+      {
+        "id": 1,
+        "name": "Iced Bali Kintamani",
+        "image": "https://static.fore.coffee/product/ICED%20COD.jpg",
+        "price": 21000,
+        "description": "Kopi aromatik dengan notes fruity dan citrus."
+        
+      },
+      {
+        "id": 4,
+        "name": "Iced Coco Peach Fusion",
+        "image": "https://static.fore.coffee/product/Coco%20Peach%20Fusion.jpg",
+        "price": 27000,
+        "description": "Rasa segar dari peach, lychee, orange citrus, dan air kelapa."
+      }
+    ],
     "coffee_otd": [
       {
         "id": 1,

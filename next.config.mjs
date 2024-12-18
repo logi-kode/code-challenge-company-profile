@@ -31,6 +31,11 @@ const nextConfig = {
                 hostname: 'fore.coffee',
                 port: '',
                 pathname: '/wp-content/uploads/2020/06/GoFood_Square-56x56_c.png'
+            },
+            {
+                protocol: 'https',
+                hostname: 'static.fore.coffee',
+                port: '',
             }
         ]
     }
